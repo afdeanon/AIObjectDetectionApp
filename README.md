@@ -23,5 +23,8 @@ This project showcases practical application of artificial intelligence in web d
 
 
 
-https://github.com/user-attachments/assets/0a37d21f-712e-4e06-b87f-3ff77239db3a
+
+
+
+https://github.com/user-attachments/assets/8ade987f-28a5-46f9-b34a-79c5503d03ab
 
