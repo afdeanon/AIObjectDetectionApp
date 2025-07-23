@@ -1,6 +1,10 @@
 # AI Object Detection Web Application
 
+https://github.com/user-attachments/assets/8ade987f-28a5-46f9-b34a-79c5503d03ab
+
+
 Built a comprehensive web application leveraging computer vision technology to automatically detect and classify objects in uploaded images. This full-stack solution demonstrates proficiency in cloud services, API integration, and modern web development practices.
+
 
 ## Project Timeline
 June 2025 - July 2025
@@ -29,5 +33,4 @@ This project showcases practical application of artificial intelligence in web d
 
 
 
-https://github.com/user-attachments/assets/8ade987f-28a5-46f9-b34a-79c5503d03ab
 
