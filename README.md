@@ -21,3 +21,7 @@ This project showcases practical application of artificial intelligence in web d
 
 *This project represents my commitment to exploring emerging technologies and building practical solutions that bridge traditional web development with cutting-edge AI capabilities.*
 
+
+
+https://github.com/user-attachments/assets/0a37d21f-712e-4e06-b87f-3ff77239db3a
+
