@@ -1,4 +1,4 @@
-# Object Recognition Web Application
+# AI Object Detection Web Application
 
 Built a comprehensive web application leveraging computer vision technology to automatically detect and classify objects in uploaded images. This full-stack solution demonstrates proficiency in cloud services, API integration, and modern web development practices.
 
