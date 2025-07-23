@@ -2,6 +2,9 @@
 
 Built a comprehensive web application leveraging computer vision technology to automatically detect and classify objects in uploaded images. This full-stack solution demonstrates proficiency in cloud services, API integration, and modern web development practices.
 
+## Project Timeline
+June 2025 -July 2025
+
 ## Key Features & Technologies:
 - **Frontend**: Interactive web interface for seamless image upload and results visualization
 - **Backend**: Node.js server handling file processing and API communications
